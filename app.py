@@ -10,7 +10,7 @@ import database as db  # local import
 # -------------- SETTINGS --------------
 incomes = ["Salary", "Blog", "Other Income"]
 expenses = ["Rent", "Utilities", "Groceries", "Car", "Other Expenses", "Saving"]
-currency = "USD"
+currency = "CAD"
 page_title = "Income and Expense Tracker"
 page_icon = ":money_with_wings:"  # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 layout = "centered"
